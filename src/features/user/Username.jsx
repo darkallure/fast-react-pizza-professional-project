@@ -2,7 +2,7 @@ function Username() {
   return (
     <div
       className="hidden text-sm italic
-   sm:block
+   md:block
   "
     >
       Nikolay Polozov

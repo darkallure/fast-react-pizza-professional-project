@@ -5,8 +5,8 @@ import Username from "../features/user/Username";
 function Header() {
   return (
     <header
-      className="font-pizza bg-spacePizza flex items-center justify-between border-b
-    border-stone-400 px-4 py-3 uppercase sm:px-6"
+      className="font-pizza flex items-center justify-between
+    bg-orange-600 px-4 py-3 uppercase opacity-80 sm:px-6"
     >
       <Link to="/" className="tracking-widest">
         Pizza Shop

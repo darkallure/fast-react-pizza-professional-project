@@ -20,7 +20,6 @@ function AppLayout() {
       max-w-3xl
       "
         >
-          <h1>Content</h1>
           <Outlet />
         </main>
       </div>
